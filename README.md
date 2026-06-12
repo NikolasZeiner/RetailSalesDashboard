@@ -7,6 +7,12 @@ A 3-page interactive Power BI dashboard analyzing retail sales
 performance, product profitability, and shipping operations
 across 4 U.S. regions.
 
+## Dashboard Preview
+
+![Executive Dashboard](ExecutiveDashboard.png)
+![Product Performance](ProductPerformance.png)
+![Shipping and Operations](ShippingandOperations.png)
+
 ## Key Findings
 - Technology drives highest sales but Office Supplies has best margin
 - Tables and Bookcases are consistent loss leaders despite high sales
@@ -22,6 +28,12 @@ across 4 U.S. regions.
 Total Sales · Total Profit · Profit Margin % · Sales YoY % ·
 Sales LY · Sales MTD · Sales YTD · Loss Orders · Avg Discount
 
+## Skills Demonstrated
+Power BI · DAX · Power Query · Data Modeling ·
+Time Intelligence · Conditional Formatting · KPI Design · Retail Analytics
+
+## Live Portfolio
+[View Portfolio](https://nikolaszeiner.github.io/NikolasZeiner/)
 ## Skills Demonstrated
 Power BI · DAX · Power Query · Data Modeling ·
 Time Intelligence · Conditional Formatting · KPI Design · Retail Analytics
